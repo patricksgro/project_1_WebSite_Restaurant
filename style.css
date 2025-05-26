@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+#header {
+    text-align: center;
+}
+
+.img-logo {
+    width: 150px;
+    height: 45px;
+    padding: 10px;
+   
+}
+
+.description {
+    background-color:darkkhaki;
+    padding: 0.1px;
+    border-top: solid 3px orange;
+    color: green;
+}
+
+#img-piatto {
+    height: 620px;
+    width: 650px;
+    border-radius: 10px; 
+    margin-left: 34%;
+    margin-right: 34%;
+}
+
+
+#sally {
+    color: grey;
+    text-align: center;
+}
+
+.featuredin {
+    text-transform: uppercase;
+    color: crimson;
+}
+
+.fresh {
+    color: aqua;
+    text-decoration: underline;
+}
+
+#feat {
+    padding-left: 20px;
+    border-left: solid 2px yellow;
+}
+
+h3 {
+    border-bottom: solid 2px aquamarine;
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+.content {
+    margin-left: 34%;
+    margin-right: 34%;
+}
